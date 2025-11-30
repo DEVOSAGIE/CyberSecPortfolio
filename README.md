@@ -6,3 +6,7 @@ This is a library of the sets of CyberSec hands-on I have done over the years
 - qa-automation'
 - windows security
 - Kali
+
+## screenshots
+
+[Step 1](https://github.com/DEVOSAGIE/CyberSecPortfolio/blob/main/images/Nmap-Scan-Network-Services-Ports.png)
