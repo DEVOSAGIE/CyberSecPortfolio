@@ -9,4 +9,4 @@ This is a library of the sets of CyberSec hands-on I have done over the years
 
 ## screenshots
 
-[Step 1](https://github.com/DEVOSAGIE/CyberSecPortfolio/blob/main/images/Nmap-Scan-Network-Services-Ports.png)
+[Image 1: Kali Nmap analysis](https://github.com/DEVOSAGIE/CyberSecPortfolio/blob/main/images/Nmap-Scan-Network-Services-Ports.png)
